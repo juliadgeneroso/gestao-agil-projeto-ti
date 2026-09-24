@@ -26,7 +26,7 @@ As atividades do projeto foram cadastradas no Jira e organizadas de acordo com s
 - In Review
 - Done
 
-![Quadro Kanban no Jira](jira-kanban.png)
+![Quadro Kanban no Jira](jira-kanban.PNG)
 
 ## 📊 Controle e indicadores
 
@@ -40,7 +40,7 @@ No Excel foram desenvolvidos controles para acompanhamento de:
 
 Também foi criado um dashboard no Power BI para facilitar a visualização dos principais indicadores do projeto.
 
-![Dashboard Power BI](dashboard-powerbi.png)
+![Dashboard Power BI](dashboard-powerbi.PNG)
 
 ## 📈 Indicadores acompanhados
 
